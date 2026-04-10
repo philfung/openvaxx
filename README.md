@@ -1,1 +1,1 @@
-See [open-mrna](https://philfung.github.io/open-mrna/)
+See [Open-mRNA](https://philfung.github.io/open-mrna/)
